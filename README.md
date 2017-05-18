@@ -3,6 +3,13 @@ The LAN instant messaging system mainly achieved registration, login, friend man
 
 See more, please visit http://blog.csdn.net/shuideyidi/article/details/38260513
 
+Please note that this project was developed by QT4, not QT5. And database is MYSQL. UI was written by pure code without any other tools. Thank you.
+If you meet some problems which you can not solve, when you run this project. You can send me a email, my email address is frazq10@163.com. If I have time, I will help you solve them.
+
+
 本系统主要实现了注册登录、好友管理、即时通信（文本、视频）、群组功能、消息管理、邮件收发、文件收发等主要功能。用户通过简单的注册以后，便可以登录系统。随后进行好友、群以及讨论组的添加，就可以与其他在线的用户进行行即时通信。对于消息记录，服务器以及客户端都会在各自文件或者数据库中进行相应的存储，用户可以随时进行本地消息以及网络消息的管理。当然文件的收发也得到了很好的实现，并且也集成了简单邮件收发功能。(视频模块已删除)
 
 详细介绍: http://blog.csdn.net/shuideyidi/article/details/38260513
+
+请注意这个项目是用QT4开发，不是QT5。数据是MYSQL。并且界面是纯QT代码写的，没有用QTCreator的工具去拖拽。
+虽然已经不再维护这个项目，但是如果运行的时候有问题，可以加我QQ(416470485)，如果有时间，我会帮忙解决，备注请写：LAN_IM。邮箱：frazq10@163.com.
