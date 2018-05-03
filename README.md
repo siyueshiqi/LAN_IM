@@ -12,4 +12,4 @@ If you meet some problems which you can not solve, when you run this project. Yo
 详细介绍: http://blog.csdn.net/shuideyidi/article/details/38260513
 
 请注意这个项目是用QT4开发，不是QT5。数据是MYSQL。并且界面是纯QT代码写的，没有用QTCreator的工具去拖拽。
-虽然已经不再维护这个项目，但是如果运行的时候有问题，可以加我QQ(416470485)，如果有时间，我会帮忙解决，备注请写：LAN_IM。邮箱：frazq10@163.com.
+如果运行的时候有问题，可以加QQ群(530240681)，如果有时间，我会帮忙解决。邮箱：frazq10@163.com.
